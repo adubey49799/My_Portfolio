@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+
+# Secrets & user data
+.env
+*.key
+*.pem
