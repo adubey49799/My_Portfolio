@@ -1,15 +1,18 @@
-# Python
+# Python / Jupyter
 .venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# OS / editor
-Thumbs.db
-.DS_Store
+# IDE / OS
 .vscode/
+.DS_Store
+Thumbs.db
 
-# Secrets & user data
+# Secrets
 .env
-*.key
 *.pem
+*.key
+
+# Data outputs
+**/data/processed/
