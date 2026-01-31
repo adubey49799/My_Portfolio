@@ -13,6 +13,7 @@ Thumbs.db
 .env
 *.pem
 *.key
+.venv_global/
 
 # Data outputs
 **/data/processed/
