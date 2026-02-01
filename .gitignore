@@ -17,3 +17,16 @@ Thumbs.db
 
 # Data outputs
 **/data/processed/
+
+# ML / DL datasets (raw)
+**/data/
+!**/data/README.md
+
+# Model artifacts
+*.pt
+*.pth
+*.onnx
+
+# Experiment outputs
+**/outputs/
+**/figures/
