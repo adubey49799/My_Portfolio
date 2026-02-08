@@ -2,6 +2,8 @@
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .ipynb_checkpoints/
 
 # IDE / OS
@@ -15,8 +17,16 @@ Thumbs.db
 *.key
 .venv_global/
 
+# Virtual environments
+.venv/
+.venv_global/
+
 # Data outputs
 **/data/processed/
+
+# Data & outputs (do not commit large artifacts)
+data/
+outputs/
 
 # ML / DL datasets (raw)
 **/data/
@@ -30,3 +40,7 @@ Thumbs.db
 # Experiment outputs
 **/outputs/
 **/figures/
+
+# OS
+.DS_Store
+Thumbs.db
