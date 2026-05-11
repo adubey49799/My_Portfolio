@@ -1,0 +1,9 @@
+input:
+  file_path: data/input/sample_location.csv
+
+output:
+  raw_folder: data/raw
+  output_folder: data/output
+
+api:
+  timeout_seconds: 60

@@ -47,3 +47,19 @@ Thumbs.db
 
 # Ignore transformer training outputs
 **/reports/distilbert_runs/
+
+Spring_2026_BI_Sem_2/Project - Transformer-Based Model Evaluation/roberta_results/
+Spring_2026_BI_Sem_2/Project - Transformer-Based Model Evaluation/clinicalbert_results/
+
+# Meteoblue use case - secrets and generated data
+use_cases/meteoblue/.env
+use_cases/meteoblue/data/raw/
+use_cases/meteoblue/data/output/
+use_cases/meteoblue/__pycache__/
+use_cases/meteoblue/src/__pycache__/
+use_cases/meteoblue/.env
+use_cases/meteoblue/data/raw/
+use_cases/meteoblue/data/output/
+use_cases/meteoblue/reference_repo/
+use_cases/meteoblue/__pycache__/
+use_cases/meteoblue/src/__pycache__/
