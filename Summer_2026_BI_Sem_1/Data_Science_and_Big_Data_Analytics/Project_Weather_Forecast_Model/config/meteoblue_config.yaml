@@ -1,0 +1,14 @@
+project:
+  name: weather_forecast_model
+  description: Weather forecasting model using Meteoblue API data
+
+meteoblue:
+  base_url: "https://my.meteoblue.com/packages/basic-day"
+  package: "basic-day"
+  units: "metric"
+  timezone: "America/New_York"
+
+output:
+  raw_dir: "data/raw"
+  output_dir: "data/output"
+  processed_dir: "data/processed"
