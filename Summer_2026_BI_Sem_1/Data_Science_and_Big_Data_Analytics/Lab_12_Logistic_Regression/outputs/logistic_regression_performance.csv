@@ -1,0 +1,9 @@
+Metric,Value
+Accuracy,0.7077922077922078
+Sensitivity,0.5
+Specificity,0.82
+ROC-AUC,0.812962962962963
+True Negatives,82.0
+False Positives,18.0
+False Negatives,27.0
+True Positives,27.0

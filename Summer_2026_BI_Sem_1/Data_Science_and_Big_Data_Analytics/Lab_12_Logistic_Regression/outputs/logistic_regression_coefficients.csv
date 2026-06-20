@@ -1,0 +1,9 @@
+Predictor,Coefficient,Odds_Ratio,Absolute_Coefficient
+Glucose,1.1826,3.2627,1.1826
+BMI,0.6887,1.991,0.6887
+Pregnancies,0.3774,1.4586,0.3774
+DiabetesPedigreeFunction,0.2333,1.2628,0.2333
+Age,0.1478,1.1593,0.1478
+Insulin,-0.0661,0.936,0.0661
+BloodPressure,-0.0441,0.9568,0.0441
+SkinThickness,0.0283,1.0287,0.0283
