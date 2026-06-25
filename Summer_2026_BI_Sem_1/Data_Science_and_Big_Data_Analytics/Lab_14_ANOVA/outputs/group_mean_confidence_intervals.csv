@@ -1,0 +1,4 @@
+species,Sample_Size,Mean,Standard_Deviation,Standard_Error,T_Critical,Margin_of_Error,CI_Lower,CI_Upper
+Adelie,151,189.954,6.539,0.532,1.976,1.052,188.902,191.005
+Chinstrap,68,195.824,7.132,0.865,1.996,1.726,194.097,197.55
+Gentoo,123,217.187,6.485,0.585,1.98,1.158,216.029,218.345

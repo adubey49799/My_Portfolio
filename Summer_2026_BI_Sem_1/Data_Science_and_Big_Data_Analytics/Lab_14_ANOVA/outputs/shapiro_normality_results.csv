@@ -1,0 +1,4 @@
+Species,Sample_Size,Shapiro_Statistic,P_Value,Normality_at_0.05
+Adelie,151,0.9934,0.72,Not rejected
+Chinstrap,68,0.9889,0.8106,Not rejected
+Gentoo,123,0.9622,0.0016,Rejected

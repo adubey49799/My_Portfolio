@@ -1,0 +1,4 @@
+species,Sample_Size,Mean,Median,Standard_Deviation,Minimum,Maximum
+Adelie,151,189.95,190.0,6.54,172.0,210.0
+Chinstrap,68,195.82,196.0,7.13,178.0,212.0
+Gentoo,123,217.19,216.0,6.48,203.0,231.0
