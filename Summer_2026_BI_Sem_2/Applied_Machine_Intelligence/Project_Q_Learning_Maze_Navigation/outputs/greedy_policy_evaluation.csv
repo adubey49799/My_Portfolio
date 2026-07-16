@@ -1,0 +1,9 @@
+Step,Current_State,Action,Next_State,Reward,Outcome
+1,"(4, 0)",UP,"(3, 0)",-1,Valid move
+2,"(3, 0)",UP,"(2, 0)",-1,Valid move
+3,"(2, 0)",RIGHT,"(2, 1)",-1,Valid move
+4,"(2, 1)",RIGHT,"(2, 2)",-1,Valid move
+5,"(2, 2)",UP,"(1, 2)",-1,Valid move
+6,"(1, 2)",UP,"(0, 2)",-1,Valid move
+7,"(0, 2)",RIGHT,"(0, 3)",-1,Valid move
+8,"(0, 3)",RIGHT,"(0, 4)",100,Goal reached

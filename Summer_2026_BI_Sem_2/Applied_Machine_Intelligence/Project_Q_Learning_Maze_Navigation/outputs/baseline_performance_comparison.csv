@@ -1,0 +1,5 @@
+Metric,First 100 Episodes,Last 100 Episodes
+Average reward,-39.9,92.18
+Average steps,35.26,8.26
+Goal success rate (%),65.0,100.0
+Trap rate (%),29.0,0.0
