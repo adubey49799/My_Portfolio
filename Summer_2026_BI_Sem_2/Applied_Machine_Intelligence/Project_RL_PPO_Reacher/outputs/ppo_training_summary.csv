@@ -1,0 +1,13 @@
+Metric,Value
+Total PPO Updates,100.0
+Total Environment Steps,102400.0
+Completed Episodes,2048.0
+Training Runtime Seconds,129.49664779996965
+Overall Mean Reward,-19.675333815766415
+Best Episode Reward,-6.163815479035834
+Worst Episode Reward,-58.79619803975293
+First 100 Mean Reward,-48.62798297757434
+Final 100 Mean Reward,-9.511985794731205
+Reward Improvement,39.11599718284314
+Random Baseline Mean Reward,-42.80721275295569
+Final PPO Improvement over Random,33.29522695822449

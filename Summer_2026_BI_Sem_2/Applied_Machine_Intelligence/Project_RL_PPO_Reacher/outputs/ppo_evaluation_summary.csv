@@ -1,0 +1,13 @@
+Metric,Value
+Evaluation Episodes,100.0
+Mean Episode Reward,-7.955675128434607
+Median Episode Reward,-7.512231688277886
+Reward Standard Deviation,2.0134829533108163
+Best Episode Reward,-4.628892175030315
+Worst Episode Reward,-13.26322687916332
+Mean Target Distance,0.14878465381054573
+Mean Final Distance,0.12554928779501892
+Mean Minimum Distance,0.062335426801504605
+Mean Control Cost,0.010328848758146422
+Success Threshold,0.05
+Success Rate,10.0

@@ -1,0 +1,8 @@
+Metric,Value
+Demo Seed,6000.0
+Episode Steps,50.0
+Total Reward,-7.608887119784844
+Mean Target Distance,0.1399844801104423
+Final Target Distance,0.08917039541289931
+Minimum Target Distance,0.06606909280922728
+Mean Control Cost,0.012193262285254605
