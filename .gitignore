@@ -63,3 +63,7 @@ use_cases/meteoblue/data/output/
 use_cases/meteoblue/reference_repo/
 use_cases/meteoblue/__pycache__/
 use_cases/meteoblue/src/__pycache__/
+
+
+# Pre-trained word embeddings
+**/embeddings/
